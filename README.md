@@ -25,34 +25,8 @@ Me gusta trabajar en proyectos que representen desafíos reales y me permitan cr
 
 ---
 
-## 🧭 Un poco más sobre mí
-
-Me defino como una persona curiosa, resolutiva y con hambre de aprender.  
-Me encanta trabajar en equipo, crear soluciones simples para problemas complejos y seguir mejorando cada día.  
-
-✨ *“Uno normaliza la ignorancia hasta que aprende.”* – C. Ninotti
+Mis proyectos más relevantes se encuentran aquí 👇
 
 ---
 
-## 📌 Proyectos Destacados
-
-- 🪷 [**Terapias Complementarias**](https://terapias-complementarias.com.ar/) – Landing page profesional para servicios holísticos.  
-- 🛍️ [**Ecommerce Perfumes Maison**](https://github.com/CristianNinotti/TPI-Grupo1-EcommercePerfumes) – Proyecto Full Stack de ecommerce con Clean Architecture.  
-- 📅 [**ServiTurnos**](https://github.com/CristianNinotti/ServiTurnos) – Sistema de turnos con gestión de usuarios y roles.  
-- 🕹️ [**Juego Pong con JavaScript**](https://cristianninotti.github.io/Juego_Pong_con_JS/) – Mini juego retro programado desde cero.  
-- 💰 [**Cotizador App**](https://github.com/CristianNinotti/-tup-lc2-cotizador-app) – Aplicación de cotización con lógica interactiva y UI dinámica.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-- 💻 JavaScript | React | Node.js  
-- ⚙️ C# | .NET  
-- 🗄️ SQL | SQLite | PostgreSQL  
-- 🌐 HTML | CSS | Tailwind  
-- 🧪 Postman | Git | GitHub
-
----
-
-⭐ Si te interesa colaborar o conocer más de mi trabajo, ¡escribime!
 
