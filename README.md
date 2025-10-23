@@ -15,8 +15,8 @@ Me gusta trabajar en proyectos que representen desafíos reales y me permitan cr
 - 🚀 Desarrollador Full Stack Jr en formación  
 - 💼 En búsqueda de oportunidades para aplicar y potenciar mis conocimientos  
 
-![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?style=flat)
-![GitHub stars](https://img.shields.io/github/stars/TU_USUARIO?affiliations=OWNER%2CCOLLABORATOR)
+![GitHub followers](https://img.shields.io/github/followers/CristianNinotti?style=flat)
+![GitHub stars](https://img.shields.io/github/stars/CristianNinotti?affiliations=OWNER%2CCOLLABORATOR)
 
 ---
 
